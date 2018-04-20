@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HackTheWord</string>
+    <string name="accessibility_service_description">Try to hack you</string>
+    <string name="accessibility_service_label">My Access</string>
+</resources>
